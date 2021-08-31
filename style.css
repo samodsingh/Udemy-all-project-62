@@ -17,6 +17,12 @@ body {
   background-color: #222;
   /* background-color: #60b347; */
 }
+.Name{
+    font-size: 50px;
+    position: relative;
+    left: 40%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 /* LAYOUT */
 header {
